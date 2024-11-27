@@ -1,2 +1,2 @@
 # SatyamProj-store
-This  is my first project repo
+This  is my first project repo-satyam
